@@ -10,8 +10,8 @@ including Voron Toolheads and red and black accent colors
     --Green:          #50fa7b;    /*Voron:Green*/
     --Red:            #ff5555;    /*Voron:Red*/
     --Warnings:       #ffb86c;    /*Voron:Orange*/
-    --Text:           #f8f8f2;    /*Voron:Foreground*/
-    --DarkerText:     #f5f5f2;    /*Voron: DarkerText/
+    /*--Text:           #f8f8f2;    /*Voron:Foreground*/
+    --DarkerText:     #f5f5f2;    /*Voron: DarkerText*/
     --Background:       #44475a;    /*Voron:CurrentLine*/
     --DarkBackground: #282a36;    /*Voron:Background*/
     --Toolbars:       #44475a;    /*Voron:CurrentLine*/
