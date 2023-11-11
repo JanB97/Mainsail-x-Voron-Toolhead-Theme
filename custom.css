@@ -10,9 +10,9 @@ including Voron Toolheads and red and black accent colors
     --Green:          #50fa7b;    /*Voron:Green*/
     --Red:            #ff5555;    /*Voron:Red*/
     --Warnings:       #ffb86c;    /*Voron:Orange*/
-    /*--Text:           #f8f8f2;    /*Voron:Foreground*/
+    --Text:           #f8f8f2;    /*Voron:Foreground*/
     --DarkerText:     #f5f5f2;    /*Voron: DarkerText*/
-    --Background:       #44475a;    /*Voron:CurrentLine*/
+    --Background:     #44475a;    /*Voron:CurrentLine*/
     --DarkBackground: #282a36;    /*Voron:Background*/
     --Toolbars:       #44475a;    /*Voron:CurrentLine*/
     --Sheets:         #282a36;    /*Voron:Background*/
@@ -47,9 +47,9 @@ including Voron Toolheads and red and black accent colors
 .subheading {
     color: var(--Text) !important;
 }
-.theme--dark.v-icon, .v-btn__content, .v-text-field__suffix {
+/*.theme--dark.v-icon, .v-btn__content, .v-text-field__suffix {
     color: var(--Text) !important;
-}
+}*/
 .theme--dark.v-input, .theme--dark.v-input input, .theme--dark.v-input textarea {
     color: var(--Text) !important;
 }
